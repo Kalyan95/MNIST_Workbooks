@@ -8,8 +8,8 @@ A user can use these notebooks and the embedded IpyWidgets to build an Image Cla
 - Fashion MNIST Data
 - Digits MNIST Data
 
-- It helps a begginer to obskerve and understand how a sequential model is built without doing any actual coding. 
-- Can be used as an example to teach or demonstrate a Machine Learning model's performance.
+It helps a begginer to observe and understand how a sequential model is built without doing any actual coding. 
+Can be used as an example to teach or demonstrate a Machine Learning model's performance.
 
 
 Suggested ways to use the notebooks.
