@@ -1,13 +1,20 @@
 # MNIST_Workbooks
 MNIST Example Notebooks
 
-- Download Deploy.zip to check out how these notebooks work. 
-- Useful way to intoduce Machine Learning as a Service. 
-- Prototype 
+These notebooks are designed as a protype to demonstrate that a Machine Learning Model can be provided as a service.
+
+A user can use these notebooks and the embedded IpyWidgets to build an Image Classification Model on the following image data 
+
+- Fashion MNIST Data
+- Digits MNIST Data
+
+- It helps a begginer to obskerve and understand how a sequential model is built without doing any actual coding. 
+- Can be used as an example to teach or demonstrate a Machine Learning model's performance.
 
 
-- Using IpyWidgets 
+Suggested ways to use the notebooks.
 
-Note to Self.** 
-- First commit, need to add ReadMe and also display all Widgets in notebooks. 
+The main script ML.py has different methods to initialize the widgets and pass variables to corresponding functions.
+
+- Download Deploy.zip to check out how these notebooks work. (Use Jupyter environment or Colaboratory by Google) 
 
